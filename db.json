@@ -1,0 +1,129 @@
+{
+    "datas": [{
+            "id": 611115000,
+            "name": "Somsri",
+            "surname": "SurSomsri",
+            "record": [{
+                    "id": 1,
+                    "semester": 1,
+                    "academicYear": 2000,
+                    "course": [{
+                            "courseID": "001101",
+                            "courseName": "FUNDAMENTAL ENGLISH 1",
+                            "courseCredit": 3,
+                            "grade": "A"
+                        },
+                        {
+                            "courseID": "159100",
+                            "courseName": "MODERN WORLD IN EVERYDAY LIFE",
+                            "courseCredit": 3,
+                            "grade": "A"
+                        },
+                        {
+                            "courseID": "951100",
+                            "courseName": "MODERN LIFE AND ANIMATION",
+                            "courseCredit": 3,
+                            "grade": "A"
+                        }
+                    ],
+                    "gpa": 4.00,
+                    "gpax": 4.00,
+                    "semesterCredit": 9,
+                    "totalCredit": 9
+                },
+                {
+                    "id": 2,
+                    "semester": 2,
+                    "academicYear": 2000,
+                    "course": [{
+                            "courseID": "001102",
+                            "courseName": "FUNDAMENTAL ENGLISH 2",
+                            "courseCredit": 3,
+                            "grade": ""
+                        },
+                        {
+                            "courseID": "703103",
+                            "courseName": "INTRO TO ENTRE AND BUS",
+                            "courseCredit": 3,
+                            "grade": ""
+                        },
+                        {
+                            "courseID": "953102",
+                            "courseName": "ADT & PROBLEM SOLVING",
+                            "courseCredit": 3,
+                            "grade": ""
+                        }
+                    ],
+                    "gpa": "",
+                    "gpax": 4.00,
+                    "semesterCredit": "",
+                    "totalCredit": 9
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "id": 611115001,
+            "name": "Sommai",
+            "surname": "SurSommai",
+            "record": [{
+                    "id": 3,
+                    "semester": 1,
+                    "academicYear": 2000,
+                    "course": [{
+                            "courseID": "001101",
+                            "courseName": "FUNDAMENTAL ENGLISH 1",
+                            "courseCredit": 3,
+                            "grade": "B+"
+                        },
+                        {
+                            "courseID": "159100",
+                            "courseName": "MODERN WORLD IN EVERYDAY LIFE",
+                            "courseCredit": 3,
+                            "grade": "B+"
+                        },
+                        {
+                            "courseID": "951100",
+                            "courseName": "MODERN LIFE AND ANIMATION",
+                            "courseCredit": 3,
+                            "grade": "B+"
+                        }
+                    ],
+                    "gpa": 3.50,
+                    "gpax": 3.50,
+                    "semesterCredit": 9,
+                    "totalCredit": 9
+                },
+                {
+                    "id": 4,
+                    "semester": 2,
+                    "academicYear": 2000,
+                    "course": [{
+                            "courseID": "001102",
+                            "courseName": "FUNDAMENTAL ENGLISH 2",
+                            "courseCredit": 3,
+                            "grade": ""
+                        },
+                        {
+                            "courseID": "703103",
+                            "courseName": "INTRO TO ENTRE AND BUS",
+                            "courseCredit": 3,
+                            "grade": ""
+                        },
+                        {
+                            "courseID": "953102",
+                            "courseName": "ADT & PROBLEM SOLVING",
+                            "courseCredit": 3,
+                            "grade": ""
+                        }
+                    ],
+                    "gpa": "",
+                    "gpax": 3.50,
+                    "semesterCredit": "",
+                    "totalCredit": 9
+                }
+            ],
+            "__v": 0
+        }
+    ]
+}
